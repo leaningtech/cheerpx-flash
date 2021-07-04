@@ -1,6 +1,6 @@
 <p align="center"><img src="https://leaningtech.com/wp-content/uploads/2021/02/cheerpx_logo_whitebg-300x77.png" width="300"></p>
 
-**Latest release:** ![Latest version](https://img.shields.io/badge/2021--06--14-v26-green)
+**Latest release:** ![Latest version](https://img.shields.io/badge/2021--06--30-v27-green)
 
 [**Main project link**](https://leaningtech.com/cheerpx-for-flash)
 
