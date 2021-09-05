@@ -1,10 +1,10 @@
-<p align="center"><img src="https://leaningtech.com/wp-content/uploads/2021/02/cheerpx_logo_whitebg-300x77.png" width="300"></p>
+---
+title: CheerpX For Flash - run Flash content in the browser without the Flash Player
+---
 
 **Latest release:** ![Latest version](https://img.shields.io/badge/2021--08--26-v28-green)
 
-[**Main project link**](https://leaningtech.com/cheerpx-for-flash)
-
-# CheerpX for Flash - run Flash content in the browser without the Flash Player
+[**Main project link**](https://leaningtech.com/cheerpx-for-flash/)
 
 CheerpX for Flash is a solution for organisations to support Flash applications running on modern browsers (Chrome, Edge, Firefox) without using the Adobe Flash plugin. CheerpX for Flash is a pure HTML5/JavaScript/WebAssembly solution that is added to existing, unmodified Flash applications, to transform them into HTML5 pages.
 
@@ -42,8 +42,16 @@ CheerpX is currently in active development, and is used by organisations worldwi
 
 To learn more about how you can test CheerpX for Flash, [speak to our team](https://leaningtech.com/contact-us/?subject=CheerpX%20for%20Flash%20information%20request#mailus).
 
+If you have already spoken to us and are beginning to test CheerpX, please refer to the following pages:
+
+1. [CheerpX Tutorial](pages/Tutorial)
+2. [Getting Started](pages/Getting-Started)
+3. [How Things Work](pages/How-It-Works)
+4. [CheerpX Native Bridge](pages/Native-Bridge)
+5. [Chrome Extension](pages/Chrome-Extension)
+
 ## Bugs and Questions
 
 If you are testing CheerpX for Flash, or using it in production, please report any bugs on your dedicated Asana portal. Feel free to @ an engineer, sometimes the notifications will slip through the cracks.
 
-For any further questions, please [get in touch](https://leaningtech.com/contact-us/?subject=CheerpX%20for%20Flash%20information%20request#mailus) with us.
+For any further questions, please [get in touch](https://leaningtech.com/contact-us/?subject=CheerpX%20for%20Flash%20information%20request#mailus) with us or read our [pages/FAQ's](Frequently-Asked-Questions).
