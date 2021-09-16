@@ -44,14 +44,14 @@ To learn more about how you can test CheerpX for Flash, [speak to our team](http
 
 If you have already spoken to us and are beginning to test CheerpX, please refer to the following pages:
 
-1. [CheerpX Tutorial](pages/Tutorial)
-2. [Getting Started](pages/Getting-Started)
-3. [How Things Work](pages/How-It-Works)
-4. [CheerpX Native Bridge](pages/Native-Bridge)
-5. [Chrome Extension](pages/Chrome-Extension)
+1. [CheerpX Tutorial](./Tutorial.md)
+2. [Getting Started](./Getting-Started.md)
+3. [How Things Work](./How-It-Works.md)
+4. [CheerpX Native Bridge](./Native-Bridge.md)
+5. [Chrome Extension](./Chrome-Extension.md)
 
 ## Bugs and Questions
 
 If you are testing CheerpX for Flash, or using it in production, please report any bugs on your dedicated Asana portal. Feel free to @ an engineer, sometimes the notifications will slip through the cracks.
 
-For any further questions, please [get in touch](https://leaningtech.com/contact-us/?subject=CheerpX%20for%20Flash%20information%20request#mailus) with us or read our [pages/FAQ's](Frequently-Asked-Questions).
+For any further questions, please [get in touch](https://leaningtech.com/contact-us/?subject=CheerpX%20for%20Flash%20information%20request#mailus) with us or read our [FAQ's](./Frequently-Asked-Questions).
