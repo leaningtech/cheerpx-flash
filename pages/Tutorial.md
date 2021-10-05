@@ -40,7 +40,7 @@ Now, lets add CheerpX to our server. Simply copy the `ppdeploy` folder we prepar
 
 Confirm that you can now reference your build of CheerpX, by heading to your browser and searching `localhost/cheerpx/ppdeploy/pp.js`. This should resolve, and show a Javascript file.
 
-Congratulations, you're now successfully hosting CheerpX for Flash. With some other HTTP server, you may encounter some trouble serving all of our files. For more information, check out our [troubleshooting page](./Troubleshooting.md).
+Congratulations, you're now successfully hosting CheerpX for Flash. With some other HTTP server, you may encounter some trouble serving all of our files. For more information, check out our [troubleshooting page](./Troubleshooting).
 
 # Set up a sample page
 
@@ -140,4 +140,4 @@ For further information, take a look at the official [Chromium documentation](ht
 
 # The end!
 
-Congratulations, you have successfully installed CheerpX for Flash, and added it to an HTML page. You can now view Flash content in a Flashless browser! For more information, please read our in-depth [Getting Started](./Getting-Started.md) page, or our [How It Works](./How-It-Works.md) page.
+Congratulations, you have successfully installed CheerpX for Flash, and added it to an HTML page. You can now view Flash content in a Flashless browser! For more information, please read our in-depth [Getting Started](./Getting-Started) page, or our [How It Works](./How-It-Works) page.

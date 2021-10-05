@@ -44,11 +44,11 @@ To learn more about how you can test CheerpX for Flash, [speak to our team](http
 
 If you have already spoken to us and are beginning to test CheerpX, please refer to the following pages:
 
-1. [CheerpX Tutorial](./Tutorial.md)
-2. [Getting Started](./Getting-Started.md)
-3. [How Things Work](./How-It-Works.md)
-4. [CheerpX Native Bridge](./Native-Bridge.md)
-5. [Chrome Extension](./Chrome-Extension.md)
+1. [CheerpX Tutorial](./Tutorial)
+2. [Getting Started](./Getting-Started)
+3. [How Things Work](./How-It-Works)
+4. [CheerpX Native Bridge](./Native-Bridge)
+5. [Chrome Extension](./Chrome-Extension)
 
 ## Bugs and Questions
 
