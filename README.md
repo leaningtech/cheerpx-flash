@@ -2,7 +2,7 @@
 title: CheerpX For Flash - run Flash content in the browser without the Flash Player
 ---
 
-**Latest release:** ![Latest version](https://img.shields.io/badge/2021--08--26-v28-green)
+**Latest release:** ![Latest version](https://img.shields.io/badge/2021--10--04-v29-green)
 
 [**Main project link**](https://leaningtech.com/cheerpx-for-flash/)
 
