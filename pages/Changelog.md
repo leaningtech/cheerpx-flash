@@ -2,6 +2,15 @@
 title: Changelog
 ---
 
+Version 29 - October 4th, 2021:
+   
+   * Full reimplementation of audio support. Performance, synchronicity and audio quality should vastly improve on all browsers and any hardware.
+   * CheerpX core JIT performance improvements.
+   * Bug fixes on JavaScript - Flash interoperability.
+   * Improved recognition and replacement of Flash objects within complex pages.
+   * General bug fixes.
+   * General performance improvements.
+
 Version 28 - August 26th, 2021:
 
     * CheerpX core JIT performance improvements.
