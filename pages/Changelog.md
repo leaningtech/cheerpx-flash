@@ -2,6 +2,21 @@
 title: Changelog
 ---
 
+Version 31 - November 11th, 2021:
+
+    * Significant performance improvements.
+    * Fixed some correctness issues in vector graphics rendering.
+    * Fixed issues with Daylight Saving Time.
+    * General bug fixes.
+
+Version 30 - November 1st, 2021:
+
+    * Significant performance improvements.
+    * CheerpX core JIT performance improvements. 
+    * Bug fixes on JavaScript - Flash interoperability.  
+    * Improved recognition and replacement of Flash objects within complex pages.
+    * General bug fixes.
+
 Version 29 - October 4th, 2021:
 
     * Full reimplementation of audio support. Performance, synchronicity and audio quality should vastly improve on all browsers and any hardware.
