@@ -2,7 +2,7 @@
 title: CheerpX For Flash - run Flash content in the browser without the Flash Player
 ---
 
-**Latest release:** ![Latest version](https://img.shields.io/badge/2021--11--11-v31-green)
+**Latest release:** ![Latest version](https://img.shields.io/badge/2021--12--15-v32-green)
 
 CheerpX for Flash is a solution for organisations to support Flash applications running on modern browsers (Chrome, Edge, Firefox) without using the Adobe Flash plugin. CheerpX for Flash is a pure HTML5/JavaScript/WebAssembly solution that is added to existing, unmodified Flash applications, to transform them into HTML5 pages.
 
