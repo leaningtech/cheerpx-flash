@@ -2,6 +2,13 @@
 title: Changelog
 ---
 
+Version 32 - December 15th, 2021:
+
+    * Performance improvements.
+    * Fixed some issues with performance degradation with cross-timezone workloads.
+    * Fixed font rendering corner cases.
+    * General bug fixes.
+
 Version 31 - November 11th, 2021:
 
     * Significant performance improvements.
