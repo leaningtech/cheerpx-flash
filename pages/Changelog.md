@@ -2,6 +2,12 @@
 title: Changelog
 ---
 
+Version 33 - January 14th, 2022:
+
+    * CheerpX JIT performance improvements.
+    * CheerpX Flash frontend performance improvements.
+    * General bug fixes.
+
 Version 32 - December 15th, 2021:
 
     * Performance improvements.
