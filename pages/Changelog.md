@@ -2,6 +2,14 @@
 title: Changelog
 ---
 
+Version 34 - May 19th, 2022:
+
+    * Rebase on up-to-date CheerpX JIT engine. 
+    * Multiple CheerpX JIT performance improvements.
+    * CheerpX Flash frontend performance improvements.
+    * Handle CORE_TIMER_PORT in cxbridge.
+    * General bug fixes.
+
 Version 33 - January 14th, 2022:
 
     * CheerpX JIT performance improvements.
