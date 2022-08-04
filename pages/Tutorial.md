@@ -114,15 +114,14 @@ We add optional flags to our testing builds to ensure that if there are any comp
 The flags we need to add are:
 
 - `--experimental-wasm-return_call`
-- `--experimental-wasm-gc`
-- `--experimental-wasm-typed_funcref`
-- `--experimental-wasm-compilation-hints`
+- `--experimental-wasm-compilagtion-hints`
+- `--experimental-wasm-wasm-branch-hinting`
 
 There are a few ways to do this.
 
 - **Launch Chrome from the command line**. If you open Windows Powershell as an administrator, the following command (which could need tweaking for your specific installation) should allow you to launch Chrome with the correct flags:
 
-  `"C:\Program Files\Google\Chrome\Application\chrome.exe" --js-flags="--experimental-wasm-return_call --experimental-wasm-gc --experimental-wasm-typed_funcref --experimental-wasm-compilation-hints"`
+  `"C:\Program Files\Google\Chrome\Application\chrome.exe" --js-flags="--experimental-wasm-return-call --experimental-wasm-compilation-hints --experimental-wasm-branch-hinting"`
 
 - **Edit your shortcut to launch with flags**. You can also add the same flags to the shortcut directly, which should allow you to run the application as normal, except with flags applied. To do this, you need to:
 
@@ -132,7 +131,7 @@ There are a few ways to do this.
   - At the end of your "Target:" line add the command line flags.
   - With that example flag, it should look like below:
 
-    `chrome.exe --experimental-wasm-return_call --experimental-wasm-gc --experimental-wasm-typed_funcref`
+    `chrome.exe --experimental-wasm-return-call --experimental-wasm-compilation-hints --experimental-wasm-branch-hinting`
 
   - Launch Chrome as normal with the shortcut.
 
