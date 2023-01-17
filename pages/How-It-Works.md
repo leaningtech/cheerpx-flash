@@ -32,7 +32,7 @@ If you are looking to integrate CheerpX for Flash on your applications, the proc
 
 All the computation takes place directly in the end users browser tab, and as long as they are using a WASM compliant browser, things should work right off the bat.
 
-For a more detailed look at how to integrate CheerpX for Flash, take a look at our [tutorial](Tutorial).
+For a more detailed look at how to integrate CheerpX for Flash, take a look at our [tutorial](Tutorial.md).
 
 ---
 
