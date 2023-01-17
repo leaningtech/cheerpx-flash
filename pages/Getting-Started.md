@@ -26,7 +26,7 @@ Simply configure a server of your choice, and place the CheerpX directory into i
 
 Double check your server is correctly serving the files before proceeding.
 
-We tend to find that with most major hosting methods, this is sufficient, but in certain scenario's, additional steps have to be taken to correctly configure the HTTP server. We have detailed some of these common problems on our [troubleshooting](Troubleshooting) page.
+We tend to find that with most major hosting methods, this is sufficient, but in certain scenario's, additional steps have to be taken to correctly configure the HTTP server. We have detailed some of these common problems on our [troubleshooting](Troubleshooting.md) page.
 
 # How to integrate CheerpX for Flash
 
@@ -46,7 +46,7 @@ And that's it! As long as the user is accessing the page from a WASM enabled bro
 
 ---
 
-In some scenarios, a customer cannot edit the HTML of the page directly. If this is your case, we can offer one other workaround, which involves configuring and installing a custom [chrome extension](Chrome-Extension). This extension does not contain CheerpX for Flash, it simply dynamically adds the same Javascript outlined above, as soon as a user navigates to the page.
+In some scenarios, a customer cannot edit the HTML of the page directly. If this is your case, we can offer one other workaround, which involves configuring and installing a custom [chrome extension](Chrome-Extension.md). This extension does not contain CheerpX for Flash, it simply dynamically adds the same Javascript outlined above, as soon as a user navigates to the page.
 
 # Basic HTML page for testing
 
@@ -80,8 +80,8 @@ You can now serve this web page on a simple http server - this could be the same
 
 ---
 
-Take a look at our dedicated [troubleshooting page](Troubleshooting) for a more detailed overview of how to troubleshoot any issues you may encounter.
+Take a look at our dedicated [troubleshooting page](Troubleshooting.md) for a more detailed overview of how to troubleshoot any issues you may encounter.
 
-For further information on setting up and configuring CheerpX for Flash, take a look at [our tutorial](Tutorial).
+For further information on setting up and configuring CheerpX for Flash, take a look at [our tutorial](Tutorial.md).
 
-For further information on how things work, and the infrastructure requried to run CheerpX for Flash, take a look at [how it works](How-It-Works).
+For further information on how things work, and the infrastructure requried to run CheerpX for Flash, take a look at [how it works](How-It-Works.md).
