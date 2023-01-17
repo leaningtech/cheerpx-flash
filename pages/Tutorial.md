@@ -139,4 +139,4 @@ For further information, take a look at the official [Chromium documentation](ht
 
 # The end!
 
-Congratulations, you have successfully installed CheerpX for Flash, and added it to an HTML page. You can now view Flash content in a Flashless browser! For more information, please read our in-depth [Getting Started](./Getting-Started) page, or our [How It Works](./How-It-Works) page.
+Congratulations, you have successfully installed CheerpX for Flash, and added it to an HTML page. You can now view Flash content in a Flashless browser! For more information, please read our in-depth [Getting Started](./Getting-Started.md) page, or our [How It Works](./How-It-Works.md) page.
