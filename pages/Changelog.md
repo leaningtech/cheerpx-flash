@@ -2,6 +2,14 @@
 title: Changelog
 ---
 
+Version 35 - March 28th, 2023:
+
+    * Rebase on up-to-date CheerpX JIT engine. 
+    * Multiple CheerpX JIT performance improvements.
+    * New Stage3D implementation with GPU acceleration, leading to drastically improved performance on Stage3D Flash applications.
+    * Time zone fixes.
+    * General bug fixes.
+
 Version 34 - May 19th, 2022:
 
     * Rebase on up-to-date CheerpX JIT engine. 
